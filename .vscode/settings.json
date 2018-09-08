@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "state.h": "c",
+        "reader.h": "c",
+        "parser.h": "c",
+        "string_manip.h": "c",
+        "location.h": "c",
+        "free.h": "c",
+        "dbg.h": "c"
+    }
+}
