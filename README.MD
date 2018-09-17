@@ -5,6 +5,9 @@ The CLI is clear, convenient and efficient, but I like having the possibilty to 
 
 Author: Pythalex (September 2018)
 
-### State : In development (Not usable)
+### State : In development (Alpha)
 
-Currently the program is not usable, I've done the necessary functions for I/O with windscribe CLI from C code. Now I need to add the most important thing, the GUI.
+The program is usable mostly for development purpose. You can currently choose a server location, connect and disconnect. But the program suffers from several
+latency problems and bugs.
+
+![alt text](https://i.imgur.com/T7AGMcn.png "Screenshot")
