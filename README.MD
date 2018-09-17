@@ -13,4 +13,4 @@ Author: Pythalex (September 2018)
 The program is usable mostly for development purpose. You can currently choose a server location, connect and disconnect. But the program suffers from several
 latency problems and bugs.
 
-![alt text](https://i.imgur.com/T7AGMcn.png "Screenshot")
+![alt text](https://i.imgur.com/UZuFZ5y.png "Screenshot")
